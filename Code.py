@@ -1,1 +1,1 @@
-some code for python
+print("Hello World")
